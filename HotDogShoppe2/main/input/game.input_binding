@@ -1,0 +1,12 @@
+key_trigger {
+  input: KEY_SPACE
+  action: "SPACE_PRESSED"
+}
+key_trigger {
+  input: KEY_SPACE
+  action: ""
+}
+mouse_trigger {
+  input: MOUSE_BUTTON_1
+  action: "mouse-left  to touch"
+}

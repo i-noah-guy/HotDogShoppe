@@ -1,0 +1,27 @@
+images {
+  image: "/main/images/bread.png"
+}
+images {
+  image: "/main/images/cheese.png"
+}
+images {
+  image: "/main/images/chili.png"
+}
+images {
+  image: "/main/images/hotdog2.png"
+}
+images {
+  image: "/main/images/mustard.png"
+}
+images {
+  image: "/main/images/onion.png"
+}
+images {
+  image: "/main/images/Patato.png"
+}
+images {
+  image: "/main/images/Ketchup.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0

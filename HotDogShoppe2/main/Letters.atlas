@@ -1,0 +1,81 @@
+images {
+  image: "/main/Letters/A.png"
+}
+images {
+  image: "/main/Letters/B.png"
+}
+images {
+  image: "/main/Letters/C.png"
+}
+images {
+  image: "/main/Letters/D.png"
+}
+images {
+  image: "/main/Letters/E.png"
+}
+images {
+  image: "/main/Letters/F.png"
+}
+images {
+  image: "/main/Letters/G.png"
+}
+images {
+  image: "/main/Letters/H.png"
+}
+images {
+  image: "/main/Letters/I.png"
+}
+images {
+  image: "/main/Letters/J.png"
+}
+images {
+  image: "/main/Letters/K.png"
+}
+images {
+  image: "/main/Letters/L.png"
+}
+images {
+  image: "/main/Letters/M.png"
+}
+images {
+  image: "/main/Letters/N.png"
+}
+images {
+  image: "/main/Letters/O.png"
+}
+images {
+  image: "/main/Letters/P.png"
+}
+images {
+  image: "/main/Letters/Q.png"
+}
+images {
+  image: "/main/Letters/R.png"
+}
+images {
+  image: "/main/Letters/S.png"
+}
+images {
+  image: "/main/Letters/T.png"
+}
+images {
+  image: "/main/Letters/U.png"
+}
+images {
+  image: "/main/Letters/V.png"
+}
+images {
+  image: "/main/Letters/W.png"
+}
+images {
+  image: "/main/Letters/X.png"
+}
+images {
+  image: "/main/Letters/Y.png"
+}
+images {
+  image: "/main/Letters/Z.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0
